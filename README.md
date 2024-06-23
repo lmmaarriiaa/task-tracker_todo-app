@@ -1,9 +1,18 @@
-# React TypeScript Starter Pack
+# React Task Tracker (Todo App)
 
-To use this template click `Use this template`
+Simple, intuitive app for managing simple tasks developed with best practices. React To-Do App with API integration for adding, deleting, toggling, and renaming tasks.
 
-### Available Scripts
+Technologies: React, Typescript, JavaScript, HTML5, CSS3, REST API, Bulma
 
-`Deploy` - available to deploy your application to gh-pages
+- [DEMO LINK](https://lmmaarriiaa.github.io/task-tracker_todo-app/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Requirements
+Ensure that you have Node.js and npm installed on your computer. This project uses node version 14.
+
+## Installation 
+1. Clone the repository using `git clone`
+2. Install dependencies using the command `npm install`
+
+## Running the app 
+Execute `npm start` command to run the app. Open your browser and navigate to http://localhost:3000/
+
